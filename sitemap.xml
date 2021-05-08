@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://verymiao.github.io/categories/</loc>
+    <lastmod>2021-05-08T13:27:15+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://verymiao.github.io/tags/design-pattern/</loc>
     <lastmod>2021-05-08T13:27:15+08:00</lastmod>
   </url>
@@ -23,6 +28,11 @@
   </url>
   
   <url>
+    <loc>https://verymiao.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2021-05-08T13:27:15+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://verymiao.github.io/post/iterator-pattern/</loc>
     <lastmod>2021-05-08T13:27:15+08:00</lastmod>
   </url>
@@ -35,10 +45,6 @@
   <url>
     <loc>https://verymiao.github.io/</loc>
     <lastmod>2021-01-02T15:04:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://verymiao.github.io/categories/</loc>
   </url>
   
   <url>

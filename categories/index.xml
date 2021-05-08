@@ -6,9 +6,19 @@
     <description>Recent content in Categories on 非常喵的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Sat, 08 May 2021 13:27:15 +0800</lastBuildDate>
     
 	<atom:link href="https://verymiao.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>设计模式</title>
+      <link>https://verymiao.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</link>
+      <pubDate>Sat, 08 May 2021 13:27:15 +0800</pubDate>
+      
+      <guid>https://verymiao.github.io/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
