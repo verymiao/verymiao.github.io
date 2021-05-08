@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 非常喵的博客</title>
+    <link>https://verymiao.github.io/post/</link>
+    <description>Recent content in Posts on 非常喵的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 08 May 2021 13:27:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://verymiao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>迭代器模式</title>
+      <link>https://verymiao.github.io/post/iterator-pattern/</link>
+      <pubDate>Sat, 08 May 2021 13:27:15 +0800</pubDate>
+      
+      <guid>https://verymiao.github.io/post/iterator-pattern/</guid>
+      <description>定义 迭代器模式是一种行为模式， 提供一种方法顺序访问一个聚合对象中的各个元素，而又不需要暴漏该对象的内部表示。 简单来讲，for range UML类图 迭代器模式的主要思想是对集合背后的迭代逻辑提取 示例 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47</description>
+    </item>
+    
+  </channel>
+</rss>
